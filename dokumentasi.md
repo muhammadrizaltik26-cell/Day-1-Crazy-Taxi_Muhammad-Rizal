@@ -19,9 +19,9 @@ Workshop terbagi menjadi dua topik besar:
 - Melakukan version controlling.
 
 ### 1.2 Prompt Engineering
-**Prompt** adalah instruksi atau masukan yang diberikan kepada model AI untuk mendapatkan hasil tertentu. Bentuknya bisa berupa pertanyaan sederhana, kata kunci, instruksi yang rumit, atau potongan kode.
+**Prompt** adalah instruksi atau masukan yang diberikan kepada model AI untuk mendapatkan jawaban, informasi, atau hasil tertentu.
 
-**Prompt engineering** adalah cara merancang instruksi agar AI memberikan jawaban yang tepat, relevan, dan layak digunakan.
+**Prompt engineering** adalah teknik menyusun, mengatur, dan mengoptimalkan instruksi (prompt) yang diberikan kepada AI agar menghasilkan jawaban yang lebih akurat, relevan, jelas, dan sesuai dengan kebutuhan pengguna.
 
 **Context is key.** Prompt tanpa konteks (misalnya hanya "Create student task planner") menghasilkan jawaban yang umum. Prompt dengan konteks yang jelas menghasilkan hasil yang jauh lebih sesuai kebutuhan.
 
